@@ -67,6 +67,8 @@ Pipeline integration patterns covering metering, observability, audit trails, da
 - **One-Pager:** https://ram-portfolio-amber.vercel.app/assets/one-pager.pdf
 - **Resume:** https://ram-portfolio-amber.vercel.app/assets/resume.pdf
 - **Email:** ramachandran.balasubrahmanian@gmail.com
+- **Phone:** +91 77600 77471
+- **WhatsApp only:** +91 99726 57810
 
 ---
 
