@@ -1,0 +1,41 @@
+# ─────────────────────────────────────────────────────────────────
+# Auto-generates GitHub Profile Summary Cards every 24 hours
+# and commits them directly into this repo as SVG files.
+# This means your README never depends on any external Vercel service.
+#
+# HOW TO ACTIVATE:
+#   1. Go to your repo → Settings → Actions → General
+#   2. Under "Workflow permissions" → select "Read and write permissions"
+#   3. Click Save
+#   4. Go to Actions tab → click "Generate Profile Summary Cards" → Run workflow
+#
+# After first run, cards are saved as:
+#   profile-summary-card-output/tokyonight/
+#     0-profile-details.svg
+#     1-repos-per-language.svg
+#     2-most-commit-language.svg
+#     3-stats.svg
+#     4-productive-time.svg
+# ─────────────────────────────────────────────────────────────────
+
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"        # Runs every day at midnight UTC
+  workflow_dispatch:             # Allows manual trigger from Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
