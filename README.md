@@ -324,18 +324,21 @@ class RamachandranBalasubrahmanian:
 
 ---
 
-## 📈 Contribution Graph
+<!-- ═══════════════════ TROPHY WALL ═══════════════════ -->
+## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramachandranbalasubrahmanian-svg&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
+
+<img src="trophy/trophy.svg" alt="GitHub Trophies" width="100%"/>
+
 </div>
 
 ---
 
-## 🏆 Trophy Wall
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramachandranbalasubrahmanian-svg&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramachandranbalasubrahmanian-svg&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
