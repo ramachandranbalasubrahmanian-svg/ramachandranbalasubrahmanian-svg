@@ -295,12 +295,16 @@ class RamachandranBalasubrahmanian:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ramachandranbalasubrahmanian-svg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramachandranbalasubrahmanian-svg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/ramachandranbalasubrahmanian-svg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramachandranbalasubrahmanian-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+
+[![GitHub followers](https://img.shields.io/github/followers/ramachandranbalasubrahmanian-svg?label=Followers&style=flat-square&logo=github&color=70A5FD&labelColor=0d1117&logoColor=white)](https://github.com/ramachandranbalasubrahmanian-svg?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=ramachandranbalasubrahmanian-svg&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/ramachandranbalasubrahmanian-svg)
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramachandranbalasubrahmanian-svg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800&rank_icon=github&show=reviews,discussions_started,prs_merged" alt="Ram's GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramachandranbalasubrahmanian-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 ---
@@ -308,15 +312,15 @@ class RamachandranBalasubrahmanian:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramachandranbalasubrahmanian-svg&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ramachandranbalasubrahmanian-svg&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&mode=weekly" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramachandranbalasubrahmanian-svg&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramachandranbalasubrahmanian-svg&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=8" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -324,7 +328,7 @@ class RamachandranBalasubrahmanian:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramachandranbalasubrahmanian-svg&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ramachandranbalasubrahmanian-svg&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -417,24 +421,34 @@ class RamachandranBalasubrahmanian:
 
 ---
 
+<!-- ═══════════════════ TESTIMONIALS ═══════════════════ -->
+## 🗣️ What Colleagues & Clients Say
 
-## 📖 Executive Case Studies
+> *LinkedIn recommendations are the strongest social proof for a senior data leader. The full set lives on my profile — a selection is shown below.*
 
-### Case Study 1 — DataOps Reliability Transformation at FICO
-**Context:** Enterprise data operations supporting 50+ clients, 232M+ records, $10M+ ARR — with recurring production incidents creating audit risk and client escalations.
+<div align="center">
 
-**What I did:** Designed and operationalised a Detect-Resolve-Prevent framework across 7 Agile teams. Every incident was routed through ServiceNow with mandatory RCA evidence, ownership assigned at the data domain level, and preventive controls tracked to closure. Quality gates were embedded at ingestion, not just at delivery.
+[![View All Recommendations](https://img.shields.io/badge/LinkedIn-View_All_Recommendations-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramachandran-balasubrahmanian/details/recommendations/)
 
-**Result:** 95% reduction in recurring incidents within 3 months. Downstream escalations fell 45%. Audit evidence became self-generating. The same model was adopted across all 25+ engineers in India, Canada, and the US.
+</div>
+
+> ⭐ **[Recommendation 1 — paste name, title, company]**
+> *"[Paste the recommendation text here — copy from LinkedIn → Recommendations tab → Received]"*
+
+> ⭐ **[Recommendation 2 — paste name, title, company]**
+> *"[Paste the recommendation text here]"*
+
+> ⭐ **[Recommendation 3 — paste name, title, company]**
+> *"[Paste the recommendation text here]"*
+
+<!-- HOW TO FILL THIS IN:
+  1. Go to https://www.linkedin.com/in/ramachandran-balasubrahmanian/details/recommendations/
+  2. Pick your 3 strongest "Received" recommendations
+  3. Replace the placeholder lines above with the real name, title, and quote
+  4. Keep each quote to 2-3 sentences max for readability
+-->
 
 ---
-
-### Case Study 2 — Metadata-Driven Data Quality at Scale
-**Context:** Client onboarding took 4–8 weeks because data quality rules were manually coded per pipeline and broke whenever source schemas changed.
-
-**What I did:** Built a configurable validation engine where rules lived in metadata, not code — covering schema, type, format, range, fuzzy-address matching, deduplication, and Golden Record creation. ServiceNow incidents were auto-created with RCA-ready evidence attached.
-
-**Result:** Client onboarding reduced to 2–3 days (85% faster). Duplicate resolution effort cut by 90%+. Annual savings potential of $5M+.
 
 <!-- ═══════════════════ BEST-FIT ROLES ═══════════════════ -->
 ## 🎯 Best-Fit Roles
