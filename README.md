@@ -417,6 +417,25 @@ class RamachandranBalasubrahmanian:
 
 ---
 
+
+## 📖 Executive Case Studies
+
+### Case Study 1 — DataOps Reliability Transformation at FICO
+**Context:** Enterprise data operations supporting 50+ clients, 232M+ records, $10M+ ARR — with recurring production incidents creating audit risk and client escalations.
+
+**What I did:** Designed and operationalised a Detect-Resolve-Prevent framework across 7 Agile teams. Every incident was routed through ServiceNow with mandatory RCA evidence, ownership assigned at the data domain level, and preventive controls tracked to closure. Quality gates were embedded at ingestion, not just at delivery.
+
+**Result:** 95% reduction in recurring incidents within 3 months. Downstream escalations fell 45%. Audit evidence became self-generating. The same model was adopted across all 25+ engineers in India, Canada, and the US.
+
+---
+
+### Case Study 2 — Metadata-Driven Data Quality at Scale
+**Context:** Client onboarding took 4–8 weeks because data quality rules were manually coded per pipeline and broke whenever source schemas changed.
+
+**What I did:** Built a configurable validation engine where rules lived in metadata, not code — covering schema, type, format, range, fuzzy-address matching, deduplication, and Golden Record creation. ServiceNow incidents were auto-created with RCA-ready evidence attached.
+
+**Result:** Client onboarding reduced to 2–3 days (85% faster). Duplicate resolution effort cut by 90%+. Annual savings potential of $5M+.
+
 <!-- ═══════════════════ BEST-FIT ROLES ═══════════════════ -->
 ## 🎯 Best-Fit Roles
 
