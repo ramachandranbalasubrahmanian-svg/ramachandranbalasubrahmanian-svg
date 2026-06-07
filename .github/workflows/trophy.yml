@@ -22,25 +22,110 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Install Deno
-        uses: denoland/setup-deno@v2
-        with:
-          deno-version: v2.x
-
-      - name: Generate trophy SVG via Deno
-        run: |
-          mkdir -p trophy
-          deno run \
-            --allow-net \
-            --allow-env \
-            --allow-read \
-            --allow-write \
-            https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/render_svg.ts \
-            ramachandranbalasubrahmanian-svg \
-            trophy \
-            tokyonight
+      - name: Generate trophy SVG via Python
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ← moved here, under run step directly
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 << 'EOF'
+          import os, json, urllib.request
+
+          token = os.environ["GITHUB_TOKEN"]
+          username = "ramachandranbalasubrahmanian-svg"
+
+          query = """
+          query userInfo($username: String!) {
+            user(login: $username) {
+              createdAt
+              followers(first: 1) { totalCount }
+              repositories(first: 50, ownerAffiliations: OWNER) {
+                totalCount
+                nodes { stargazers { totalCount } }
+              }
+              contributionsCollection {
+                totalCommitContributions
+                restrictedContributionsCount
+                totalPullRequestReviewContributions
+              }
+              pullRequests(first: 1) { totalCount }
+              openIssues: issues(states: OPEN) { totalCount }
+              closedIssues: issues(states: CLOSED) { totalCount }
+            }
+          }
+          """
+
+          payload = json.dumps({"query": query, "variables": {"username": username}}).encode()
+          req = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=payload,
+              headers={
+                  "Authorization": f"bearer {token}",
+                  "Content-Type": "application/json"
+              }
+          )
+          with urllib.request.urlopen(req) as r:
+              data = json.loads(r.read())["data"]["user"]
+
+          stars   = sum(n["stargazers"]["totalCount"] for n in data["repositories"]["nodes"])
+          commits = data["contributionsCollection"]["totalCommitContributions"] + \
+                    data["contributionsCollection"]["restrictedContributionsCount"]
+          prs     = data["pullRequests"]["totalCount"]
+          issues  = data["openIssues"]["totalCount"] + data["closedIssues"]["totalCount"]
+          reviews = data["contributionsCollection"]["totalPullRequestReviewContributions"]
+          repos   = data["repositories"]["totalCount"]
+          followers = data["followers"]["totalCount"]
+
+          def rank(val, thresholds):
+              labels = ["SSS","SS","S","AAA","AA","A","B","C"]
+              colors = ["#F4D03F","#F4D03F","#F4D03F","#BF91F3","#BF91F3","#70A5FD","#38BDAE","#AAAAAA"]
+              for i, t in enumerate(thresholds):
+                  if val >= t:
+                      return labels[i], colors[i]
+              return labels[-1], colors[-1]
+
+          trophies = [
+              ("Stars",      "⭐", stars,     [500,200,100,50,20,10,5,1]),
+              ("Followers",  "👥", followers,  [500,200,100,50,20,10,5,1]),
+              ("Commits",    "💻", commits,    [1000,500,200,100,50,20,10,1]),
+              ("PRs",        "🔀", prs,        [500,200,100,50,20,10,5,1]),
+              ("Issues",     "🐛", issues,     [500,200,100,50,20,10,5,1]),
+              ("Reviews",    "👀", reviews,    [200,100,50,20,10,5,2,1]),
+              ("Repos",      "📦", repos,      [100,50,30,20,10,5,3,1]),
+          ]
+
+          W, H, TW, TH, GAP = 800, 120, 100, 100, 10
+          cols = 7
+          total_w = cols * TW + (cols - 1) * GAP + 40
+          total_h = TH + 40
+
+          cards = []
+          for i, (name, icon, val, thresh) in enumerate(trophies):
+              lbl, color = rank(val, thresh)
+              x = 20 + i * (TW + GAP)
+              cards.append(f"""
+                <g transform="translate({x}, 20)">
+                  <rect width="{TW}" height="{TH}" rx="8"
+                    fill="#1a1b27" stroke="{color}" stroke-width="1.5"/>
+                  <text x="50" y="28" text-anchor="middle"
+                    font-size="18" fill="{color}">{icon}</text>
+                  <text x="50" y="48" text-anchor="middle"
+                    font-size="9" fill="#a0aec0" font-family="monospace">{lbl}</text>
+                  <text x="50" y="65" text-anchor="middle"
+                    font-size="14" font-weight="bold" fill="{color}">{val}</text>
+                  <text x="50" y="82" text-anchor="middle"
+                    font-size="8" fill="#718096" font-family="monospace">{name}</text>
+                </g>""")
+
+          svg = f"""<svg width="{total_w}" height="{total_h}"
+            xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#0d1117" rx="12"/>
+            {''.join(cards)}
+          </svg>"""
+
+          os.makedirs("trophy", exist_ok=True)
+          with open("trophy/trophy.svg", "w") as f:
+              f.write(svg)
+          print(f"trophy/trophy.svg written — stars:{stars} commits:{commits} prs:{prs}")
+          EOF
 
       - name: Commit and push trophy SVG
         run: |
