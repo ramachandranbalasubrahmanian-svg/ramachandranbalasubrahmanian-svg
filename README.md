@@ -1,54 +1,74 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramachandran+Balasubrahmanian&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data+Management+Leader+%7C+DAMA+CDMP+%7C+DataOps+%7C+AI+Governance+%7C+Trainer+%7C+Vibe+Coder&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramachandran+Balasubrahmanian&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data+Management+Leader+%7C+DAMA+CDMP+%7C+DataOps+%7C+AI+Governance+%7C+Corporate+Trainer+%7C+Vibe+Coder&descAlignY=62&descSize=15" width="100%"/>
 
+<!-- ═══════════════════ TYPING HEADER ═══════════════════ -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Data+Governance+%7C+DataOps+%7C+MDM+%7C+Data+Quality+Leader;DAMA+CDMP+Certified+%7C+88%25+Fundamentals+%7C+88%25+DQ+%7C+83%25+DG;15%2B+Years+%7C+232M%2B+Records+Protected+%7C+50%2B+Enterprise+Clients;95%25+Incident+Reduction+%7C+%242M%2B+Savings+%7C+%2410M%2B+ARR+Supported;Corporate+Trainer+%7C+Data+Integration+%7C+ETL%2FELT+%7C+DG+Platforms;Vibe+Coder+%7C+AI-Powered+Governance+Prototypes+%7C+Lovable+%7C+Claude" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=900&height=45&lines=15%2B+Years+in+Data+Management+%7C+ex-FICO+%7C+Bengaluru%2C+India;DAMA+CDMP+Certified+%E2%80%94+Fundamentals+88%25+%7C+DQ+88%25+%7C+DG+83%25;95%25+Incident+Reduction+in+3+Months+%E2%80%94+Detect+Resolve+Prevent;Protected+232M%2B+Records+%7C+50%2B+Clients+%7C+%2410M%2B+ARR+Supported;%242M%2B+Annual+Savings+%7C+70%25+Faster+Onboarding;Corporate+Trainer+%E2%80%94+ETL+%7C+ELT+%7C+Metadata+%7C+DQ+%7C+Data+Governance;Vibe+Coder+%E2%80%94+AI+Governance+Apps+with+Lovable+%26+Claude" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- ═══════════════════ IMPACT METRICS ROW ═══════════════════ -->
+<div align="center">
+
+![](https://img.shields.io/badge/Experience-15%2B_Years-70A5FD?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Incident_Reduction-95%25_in_3_Months-BF91F3?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Records_Protected-232M%2B-38BDAE?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Annual_Savings-%242M%2B-F5A623?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/ARR_Supported-%2410M%2B-70A5FD?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Enterprise_Clients-50%2B-BF91F3?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Onboarding_Speed-85%25_Faster-38BDAE?style=for-the-badge&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════ CODE BLOCK ABOUT ME ═══════════════════ -->
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class RamachandranBalasubrahmanian:
+    """
+    Data Management Leader · DAMA CDMP Practitioner
+    Corporate Trainer · Vibe Coder · ex-FICO · Bengaluru 🇮🇳
+    """
 
-    name        = "Ramachandran Balasubrahmanian"
-    aka         = "Ram 🇮🇳"
-    location    = "Bengaluru, India"
-    degree      = "MCA — KGISL Institute of Information Management"
+    name     = "Ramachandran Balasubrahmanian"
+    location = "Bengaluru, India"
+    degree   = "MCA · KGISL Institute of Information Management"
 
-    identity = [
-        "Data Management Leader (15+ yrs)",
-        "DAMA CDMP Practitioner",
-        "Corporate Trainer — DG, ETL/ELT, Metadata, DQ",
-        "Vibe Coder — AI-powered Governance Tools",
-        "ex-FICO · Immediate Joiner",
+    leadership = {
+        "teams_led"      : "11 direct reports · 7 Agile teams · 25+ engineers",
+        "scope"          : "India · Canada · US",
+        "clients"        : "50+ enterprise clients · 150+ platforms",
+        "impact"         : "$10M+ ARR · $2M+ savings · 232M+ records",
+    }
+
+    expertise = [
+        "Data Governance & DAMA DMBOK",
+        "DataOps & Data Reliability",
+        "MDM · Golden Records · Survivorship",
+        "Metadata · Lineage · Data Cataloguing",
+        "Data Quality · Incident RCA",
+        "AI Governance · PII Privacy Controls",
+        "ETL/ELT · Data Integration · Pipelines",
     ]
 
-    stack = [
-        "Microsoft Purview", "Collibra", "Informatica",
-        "Talend", "AWS Glue", "Snowflake", "Databricks",
-        "Python", "SQL", "Gemini 1.5 Flash", "Claude",
+    trainer_domains = [
+        "Data Integration & ETL/ELT",
+        "Metadata Frameworks",
+        "Data Quality Management",
+        "Data Governance (DAMA DMBOK)",
+        "AI Governance & Privacy Controls",
     ]
 
-    vibeCode = [
-        "Lovable.app", "Claude Artifacts",
-        "RAG Governance Pipelines", "AI PII Masking Prototypes",
-    ]
-
-    currentlyLearning = [
-        "AI Governance & NIST AI RMF",
-        "EU AI Act Compliance Controls",
-        "Anthropic Claude MCP & Cowork",
-    ]
-
-    funFact = "95% incident reduction · 232M+ records protected 🚀"
+    vibe_code = ["Lovable.app", "Claude", "Gemini 1.5 Flash", "RAG Pipelines"]
 
     def motto(self):
         return (
             "Governance is not a static policy document."
-            " It should be engineered into the platform."
+            " Engineer it into the platform."
         )
 ```
 
@@ -56,54 +76,97 @@ class RamachandranBalasubrahmanian:
 
 ---
 
-## ⚡ Vibe Coding — AI-Powered Governance in Action
+<!-- ═══════════════════ QUICK CONNECT BAR ═══════════════════ -->
+<div align="center">
 
-> I build working AI governance prototypes using **Lovable.app**, **Claude**, and **Gemini** — turning data management concepts into live, clickable tools without traditional dev overhead.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramachandran-balasubrahmanian/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://ram-portfolio-amber.vercel.app)
+[![Live App](https://img.shields.io/badge/Live_App-Pipeline_Pulse-FF6C2F?style=flat-square&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
+[![Resume](https://img.shields.io/badge/Resume-Download-BF91F3?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://ram-portfolio-amber.vercel.app/assets/resume.pdf)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramachandran.balasubrahmanian@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919972657810)
+
+</div>
+
+---
+
+<!-- ═══════════════════ OPERATING BELIEF ═══════════════════ -->
+## 💡 What I Stand For
 
 <div align="center">
 
-### 🌟 [Pipeline Pulse — AI Data Governance & PII Masking App](https://pipeline-pulse-79.lovable.app/)
+> *"Governance should not be a static policy document. It should be **engineered into the platform**."*
 
-[![Live App](https://img.shields.io/badge/🚀_Live_App-pipeline--pulse--79.lovable.app-FF6C2F?style=for-the-badge&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
+</div>
+
+```
+ DATA PLATFORM TRUST CHAIN
+ ──────────────────────────────────────────────────────────────────────
+  Metadata  ──▶  Rules  ──▶  Controls  ──▶  Evidence  ──▶  Metrics
+                                                               │
+                                                               ▼
+                                                       Business Trust ✅
+ ──────────────────────────────────────────────────────────────────────
+  Every layer governed · Every incident traceable · Every decision auditable
+```
+
+---
+
+<!-- ═══════════════════ VIBE CODING ═══════════════════ -->
+## ⚡ Vibe Coding — AI Governance Prototypes Built Live
+
+> I build **working, production-grade AI governance tools** using Lovable.app, Claude, and Gemini — translating data management frameworks into live, clickable products without traditional dev overhead.
+
+<div align="center">
+
+### 🌟 Pipeline Pulse — AI Data Governance & PII Masking App
+
+[![Live App](https://img.shields.io/badge/🚀_LIVE_APP-pipeline--pulse--79.lovable.app-FF6C2F?style=for-the-badge&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
 [![Built With](https://img.shields.io/badge/Built_With-Lovable.app-7C3AED?style=for-the-badge&logoColor=white)](https://lovable.app)
 [![AI Engine](https://img.shields.io/badge/AI_Engine-Gemini_1.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
-
-**A privacy-by-design prototype for enterprise data governance — vibe coded end-to-end.**
-
-| Feature | Description |
-|---------|-------------|
-| 🔍 Semantic PII Detection | Gemini 1.5 Flash classifies sensitive fields across 100+ data paths |
-| 🔐 Cryptographic Masking | SHA-256/512 masking with zero-trust ingestion controls |
-| 🛡️ ABAC Access Governance | Attribute-based access control with immutable audit evidence |
-| 📋 Compliance Alignment | GDPR · HIPAA · SOX · SOC 2 · ISO 27001 · NIST |
-| 📊 Governance Dashboard | Real-time incident tracking, lineage, and RCA views |
+[![Compliance](https://img.shields.io/badge/Compliant-GDPR_%7C_HIPAA_%7C_SOX_%7C_SOC2-38BDAE?style=for-the-badge&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
 
 </div>
-
----
-
-## 🎓 Corporate Trainer — Data Management & Integration
-
-> Delivered training programmes for **multiple corporate clients** across India on data platform operations, governance, and integration patterns.
 
 <div align="center">
 
-| 📚 Training Domain | Topics Covered |
-|--------------------|----------------|
-| **Data Integration & ETL/ELT** | Pipeline design, batch vs streaming, Talend, Informatica, AWS Glue, dbt, reconciliation patterns |
-| **Metadata Frameworks** | Business & technical metadata, data dictionaries, lineage mapping, Microsoft Purview, Collibra |
-| **Data Quality Management** | DQ dimensions (DAMA), rule design, profiling, validation engines, incident RCA, ServiceNow integration |
-| **Data Governance** | DAMA DMBOK, DG operating models, stewardship roles, policy design, maturity assessments |
-| **Data Platform Operations** | DataOps reliability, SLA management, observability, Golden Records, MDM workflows |
-| **AI Governance & Privacy** | PII classification, masking patterns, GDPR/HIPAA controls, RAG governance, AI risk controls |
+| Capability | What It Does |
+|:-----------|:-------------|
+| 🔍 **Semantic PII Detection** | Gemini 1.5 Flash classifies sensitive fields across 100+ data paths automatically |
+| 🔐 **Cryptographic Masking** | SHA-256 / SHA-512 masking with zero-trust ingestion and HITL safeguards |
+| 🛡️ **ABAC Access Governance** | Attribute-based access control with immutable, audit-ready evidence trails |
+| 📊 **Governance Dashboard** | Real-time incident tracking, lineage views, RCA panels, and quality metrics |
+| 📋 **Multi-Compliance** | GDPR · HIPAA · SOX · SOC 2 · ISO 27001 · NIST · CCPA aligned |
+| ⚡ **Impact** | 95% incident reduction pattern · 232M+ record protection model · $2M+ savings design |
 
 </div>
 
 ---
 
+<!-- ═══════════════════ CORPORATE TRAINER ═══════════════════ -->
+## 🎓 Corporate Trainer — Data Management & Integration
+
+> Delivered structured training programmes for **multiple corporate clients across India** — helping data teams build practical skills in governance, integration, quality, and AI-ready data operations.
+
+<div align="center">
+
+| 📚 Domain | Topics & Tools Covered | Audience |
+|:----------|:------------------------|:---------|
+| **Data Integration & ETL/ELT** | Pipeline design · Batch vs Streaming · Talend · Informatica · AWS Glue · dbt · Reconciliation patterns | Data Engineers · Platform Teams |
+| **Metadata Frameworks** | Business & technical metadata · Data dictionaries · Lineage mapping · Microsoft Purview · Collibra · Apache Atlas | DG Teams · Architects |
+| **Data Quality Management** | DAMA DQ dimensions · Rule design · Profiling · Validation engines · Incident RCA · ServiceNow integration | DQ Analysts · DataOps Teams |
+| **Data Governance (DAMA DMBOK)** | DG operating models · Stewardship roles · Policy design · Ownership frameworks · Maturity assessments | CDO Offices · Business Leads |
+| **Data Platform Operations** | DataOps reliability · SLA management · Observability · Golden Records · MDM workflows · Deduplication | Platform & Ops Teams |
+| **AI Governance & Privacy** | PII classification · Masking patterns · GDPR / HIPAA controls · RAG governance · AI risk controls | Compliance · Risk Teams |
+
+</div>
+
+---
+
+<!-- ═══════════════════ FULL TECH STACK ═══════════════════ -->
 ## 🛠️ Full Tech Stack — Data Management Leader & Practitioner
 
-**Languages & Scripting**
+**🔤 Languages & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -114,7 +177,7 @@ class RamachandranBalasubrahmanian:
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=flat-square&logoColor=white)
 
-**Data Governance & Cataloguing**
+**🗂️ Data Governance & Cataloguing**
 
 ![Microsoft Purview](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Collibra](https://img.shields.io/badge/Collibra-FF6C2F?style=flat-square&logoColor=white)
@@ -122,8 +185,9 @@ class RamachandranBalasubrahmanian:
 ![Alation](https://img.shields.io/badge/Alation-003087?style=flat-square&logoColor=white)
 ![Apache Atlas](https://img.shields.io/badge/Apache_Atlas-E25A1C?style=flat-square&logo=apache&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+![Atlan](https://img.shields.io/badge/Atlan-6C63FF?style=flat-square&logoColor=white)
 
-**Data Integration, ETL & ELT**
+**🔁 Data Integration, ETL & ELT**
 
 ![Talend](https://img.shields.io/badge/Talend-1675BC?style=flat-square&logoColor=white)
 ![Informatica PowerCenter](https://img.shields.io/badge/Informatica_PowerCenter-FF4B4B?style=flat-square&logoColor=white)
@@ -132,55 +196,58 @@ class RamachandranBalasubrahmanian:
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Fivetran](https://img.shields.io/badge/Fivetran-0073E6?style=flat-square&logoColor=white)
 ![Stitch](https://img.shields.io/badge/Stitch-29B5E8?style=flat-square&logoColor=white)
 
-**Master Data Management (MDM)**
+**🧬 Master Data Management (MDM)**
 
 ![Informatica MDM](https://img.shields.io/badge/Informatica_MDM-FF4B4B?style=flat-square&logoColor=white)
 ![Reltio](https://img.shields.io/badge/Reltio-6B3FA0?style=flat-square&logoColor=white)
-![Guidewire](https://img.shields.io/badge/Guidewire_DataHub-E31837?style=flat-square&logoColor=white)
+![Guidewire DataHub](https://img.shields.io/badge/Guidewire_DataHub-E31837?style=flat-square&logoColor=white)
 ![Golden Records](https://img.shields.io/badge/Golden_Records-F5A623?style=flat-square&logoColor=white)
 ![Survivorship Logic](https://img.shields.io/badge/Survivorship_Logic-38BDAE?style=flat-square&logoColor=white)
+![Deduplication](https://img.shields.io/badge/Deduplication_Engines-BF91F3?style=flat-square&logoColor=white)
 
-**Data Quality**
+**✅ Data Quality**
 
 ![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=flat-square&logoColor=white)
 ![Informatica DQ](https://img.shields.io/badge/Informatica_DQ-FF4B4B?style=flat-square&logoColor=white)
 ![Collibra DQ](https://img.shields.io/badge/Collibra_DQ-FF6C2F?style=flat-square&logoColor=white)
 ![dbt Tests](https://img.shields.io/badge/dbt_Tests-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-4B0082?style=flat-square&logoColor=white)
+![Soda](https://img.shields.io/badge/Soda_DQ-00A6A0?style=flat-square&logoColor=white)
 
-**Cloud Platforms & Data Warehouses**
+**☁️ Cloud Platforms & Data Warehouses**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS Athena](https://img.shields.io/badge/AWS_Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![AWS Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![AWS Lake Formation](https://img.shields.io/badge/AWS_Lake_Formation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
 
-**Databases & Storage**
+**🗄️ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
 
-**Analytics & BI**
+**📊 Analytics & BI**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**AI, GenAI & Vibe Coding**
+**🤖 AI, GenAI & Vibe Coding**
 
 ![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logoColor=white)
@@ -188,17 +255,19 @@ class RamachandranBalasubrahmanian:
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-BF91F3?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/Anthropic_MCP-38BDAE?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-70A5FD?style=flat-square&logoColor=white)
 
-**DataOps, Observability & DevOps**
+**⚙️ DataOps, Observability & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow_ITSM-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+![ServiceNow ITSM](https://img.shields.io/badge/ServiceNow_ITSM-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
 ![SAFe Agile](https://img.shields.io/badge/SAFe_Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum_Master-6DB33F?style=flat-square&logoColor=white)
 
-**Data Strategy & Frameworks**
+**📐 Data Strategy & Architecture Frameworks**
 
 ![DAMA DMBOK](https://img.shields.io/badge/DAMA_DMBOK-70A5FD?style=flat-square&logoColor=white)
 ![Data Mesh](https://img.shields.io/badge/Data_Mesh-BF91F3?style=flat-square&logoColor=white)
@@ -206,8 +275,10 @@ class RamachandranBalasubrahmanian:
 ![Data Lakehouse](https://img.shields.io/badge/Data_Lakehouse-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![TOGAF](https://img.shields.io/badge/TOGAF-003366?style=flat-square&logoColor=white)
 ![BCBS 239](https://img.shields.io/badge/BCBS_239-8B0000?style=flat-square&logoColor=white)
+![DG Operating Model](https://img.shields.io/badge/DG_Operating_Model-F5A623?style=flat-square&logoColor=white)
+![Data Stewardship](https://img.shields.io/badge/Data_Stewardship-70A5FD?style=flat-square&logoColor=white)
 
-**Compliance, Privacy & Security**
+**🔒 Compliance, Privacy & Regulatory**
 
 ![GDPR](https://img.shields.io/badge/GDPR-003366?style=flat-square&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA-DC143C?style=flat-square&logoColor=white)
@@ -220,6 +291,7 @@ class RamachandranBalasubrahmanian:
 
 ---
 
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -257,87 +329,101 @@ class RamachandranBalasubrahmanian:
 
 ---
 
+<!-- ═══════════════════ WORK EXPERIENCE ═══════════════════ -->
 ## 💼 Work Experience
 
 <details>
 <summary><strong>🏢 Fair Isaac Corporation (FICO)</strong> — Director / Senior Manager, AI Data Operations & Governance &nbsp;|&nbsp; Jun 2022 – Mar 2025 &nbsp;|&nbsp; Bengaluru, India</summary>
 
-> ![Microsoft Purview](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Collibra](https://img.shields.io/badge/Collibra-FF6C2F?style=flat-square&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR-003366?style=flat-square&logoColor=white) ![HIPAA](https://img.shields.io/badge/HIPAA-DC143C?style=flat-square&logoColor=white)
+<br/>
 
-- 🚀 Managed DG & operations across **11 direct reports, 7 Agile teams, and 25+ engineers** across India, Canada, and the US — setting ownership checkpoints, stewardship reviews, and quality gates aligned to DAMA DMBOK.
-- 🤖 Piloted **GenAI & RAG workflows** using Microsoft Purview and Collibra to accelerate metadata search, data lineage discovery, and audit evidence retrieval.
-- 🔒 Reduced recurring data incidents by **95% in 3 months** using a Detect-Resolve-Prevent process; downstream escalations fell by **45%**.
-- 💰 Delivered **$2M+ annual operational savings**; reduced client onboarding time by **70%**, supporting **$10M+ ARR**; protected **232M+ sensitive records** across 50+ enterprise clients.
+> ![Microsoft Purview](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Collibra](https://img.shields.io/badge/Collibra-FF6C2F?style=flat-square&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR-003366?style=flat-square&logoColor=white) ![HIPAA](https://img.shields.io/badge/HIPAA-DC143C?style=flat-square&logoColor=white) ![RAG](https://img.shields.io/badge/GenAI_RAG-BF91F3?style=flat-square&logoColor=white)
+
+- 🏛️ **Led enterprise DG** across 11 direct reports, 7 Agile teams, and 25+ engineers (India, Canada, US) — ownership checkpoints, stewardship reviews, quality gates, and escalation paths aligned to DAMA DMBOK.
+- 🤖 **Piloted GenAI & RAG workflows** using Microsoft Purview and Collibra to accelerate metadata search, lineage discovery, and audit evidence retrieval during compliance cycles.
+- ⚡ **95% incident reduction in 3 months** via Detect-Resolve-Prevent DataOps model; downstream escalations reduced by 45%; ServiceNow-linked RCA evidence for every incident.
+- 🔒 **Protected 232M+ sensitive records** across 50+ enterprise clients — PII classification, masking, access governance; GDPR, HIPAA, SOX, SOC 2 audit-ready.
+- 💰 **$2M+ annual savings** through data control automation and standardised ingestion checks; client onboarding reduced by **70%**; $10M+ ARR supported.
 
 </details>
 
 <details>
 <summary><strong>🏢 Fair Isaac Corporation (FICO)</strong> — Manager, Enterprise Data Operations & Governance &nbsp;|&nbsp; Dec 2018 – Jun 2022 &nbsp;|&nbsp; Bengaluru, India</summary>
 
-> ![AWS Athena](https://img.shields.io/badge/AWS_Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white)
+<br/>
 
-- 🔧 Replaced manual quality checks with a **metadata-driven validation engine in AWS Athena (Python/Boto3)** covering schema, type, range, email, and fuzzy-address rules — cutting quality incidents by **50% in 3 months**.
-- 🧹 Improved MDM **deduplication and survivorship rules** for Golden Record creation; duplicate resolution effort cut by **90%+**.
-- ⚡ Rolled out data controls across **7 distributed Agile teams**, reducing deployment cycle time by **60%** and improving engineering velocity by **~50%**.
-- 📦 Governed **75 GB+ batch workloads and 2.5M–3M API calls per cycle** with reconciliation controls and ServiceNow-linked incident workflows within 2-hour SLA windows.
+> ![AWS Athena](https://img.shields.io/badge/AWS_Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat-square&logo=servicenow&logoColor=white) ![MDM](https://img.shields.io/badge/MDM_Golden_Records-F5A623?style=flat-square&logoColor=white)
+
+- 🔧 **Built metadata-driven validation engine** in AWS Athena (Python/Boto3) — schema, type, range, email, fuzzy-address rules; cut quality incidents by **50% in 3 months**.
+- 🧬 **Improved MDM deduplication and survivorship** for Golden Record creation; duplicate resolution effort cut by **90%+**; downstream reporting reliability significantly improved.
+- ⚡ **Scaled DataOps controls** across 7 distributed Agile teams; deployment cycle time reduced by **60%**; engineering velocity improved by **~50%** without adding headcount.
+- 📦 **Governed 75 GB+ batch workloads** and 2.5M–3M API calls per cycle through validation checkpoints and reconciliation controls within **2-hour SLA windows**.
 
 </details>
 
 <details>
 <summary><strong>🏢 Fair Isaac Corporation (FICO)</strong> — Associate Manager / Lead, Data Operations & Ingestion Quality &nbsp;|&nbsp; Oct 2016 – Dec 2018 &nbsp;|&nbsp; Bengaluru, India</summary>
 
+<br/>
+
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=flat-square&logoColor=white)
 
-- 🔄 Built enterprise ingestion, transformation, and reconciliation pipelines; delivered **COBOL-to-JSON transformation** for 3,500-column datasets, 25–35 GB files, and 5M records within a **2-hour SLA**.
-- 🛡️ Laid groundwork for **PII classification and masking** across 100+ JSON data paths, later scaled to protect **232M+ regulated records**.
-- 💼 Contributed to **6+ enterprise client acquisitions** through technical reviews and RFP responses, adding **$5M in new ARR** within six months.
+- 🔄 **COBOL-to-JSON transformation** for 3,500-column datasets, 25–35 GB files, 5M records within a **2-hour SLA** — enterprise-grade ingestion pipelines with full reconciliation.
+- 🛡️ **Pioneered PII classification and masking** across 100+ JSON data paths — the data protection foundation later scaled to 232M+ regulated records.
+- 💼 **$5M in new ARR** within six months through 6+ enterprise client acquisition support — technical reviews and RFP contributions.
 
 </details>
 
 <details>
 <summary><strong>🏢 HCL Technologies</strong> — Technical Lead, Data Migration, Validation & Reconciliation &nbsp;|&nbsp; Apr 2015 – Oct 2016 &nbsp;|&nbsp; India</summary>
 
-> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Guidewire](https://img.shields.io/badge/Guidewire-E31837?style=flat-square&logoColor=white)
+<br/>
 
-- 🏗️ Led **Guidewire Insurance Suite data migrations** for BFSI clients using reusable ETL, validation, and reconciliation frameworks; reduced delivery effort by **~32%** through repeatable design.
-- ✅ Built SQL-based validation and cleansing workflows for high-volume financial data loads, maintaining data quality and source-to-target integrity during complex migrations.
+> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Guidewire](https://img.shields.io/badge/Guidewire_DataHub-E31837?style=flat-square&logoColor=white) ![ETL](https://img.shields.io/badge/ETL_Frameworks-38BDAE?style=flat-square&logoColor=white)
+
+- 🏗️ **Led Guidewire Insurance Suite data migrations** for BFSI clients with reusable ETL, validation, and reconciliation frameworks; delivery effort reduced by **~32%**.
+- ✅ Built SQL-based validation and cleansing workflows for high-volume financial data loads — source-to-target integrity maintained across all complex migrations.
 
 </details>
 
 <details>
 <summary><strong>🏢 EY | Cognizant | RRDonnelley</strong> — Software Engineer → Associate Tech Lead &nbsp;|&nbsp; Jul 2009 – Mar 2015 &nbsp;|&nbsp; India</summary>
 
+<br/>
+
 > ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![ETL](https://img.shields.io/badge/ETL_Pipelines-38BDAE?style=flat-square&logoColor=white)
 
 - 📊 Delivered data migration, reconciliation, and validation programmes across financial services and publishing clients.
-- 🏆 Built the foundation of regulated data handling, quality operations, and client delivery discipline that underpinned later governance programmes at FICO.
+- 🏆 Built the regulated data handling, quality operations, and client delivery discipline that underpinned all later FICO governance programmes.
 
 </details>
 
 ---
 
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 ## 🚀 Featured Projects & Repositories
 
 <div align="center">
 
 | Project | Stack | Highlights |
-|---------|-------|------------|
-| [🌟 Pipeline Pulse — AI Governance App](https://pipeline-pulse-79.lovable.app/) | `Lovable.app` `Gemini 1.5 Flash` `Python` `ABAC` | **Vibe-coded** live app · Semantic PII classification · SHA-256/512 masking · Zero-trust ingestion · GDPR/HIPAA/SOX/SOC2 aligned · 232M+ records pattern |
-| [🤖 AI-Powered Data Governance & PII Masking](https://github.com/ramachandranbalasubrahmanian-svg/AI-DataGovernance-DataMasking) | `Gemini 1.5 Flash` `Python` `SHA-256/512` `Purview` | Privacy-by-design prototype · 95% incident reduction · $2M+ savings potential · 90% manual classification reduction |
-| [📋 Data Operations Playbook](https://github.com/ramachandranbalasubrahmanian-svg/data-operations-playbook) | `DAMA DMBOK` `ServiceNow` `DataOps` `RCA` | DMBOK-aligned reliability · Incident management · Ownership model · Detect-Resolve-Prevent framework |
-| [🔁 Data Pipelines](https://github.com/ramachandranbalasubrahmanian-svg/Data-Pipelines) | `Python` `AWS` `ETL/ELT` `Observability` | Pipeline integration patterns · Metering · Audit trails · Data movement · Platform observability |
-| [📐 Metadata-Driven Data Quality Framework](https://ram-portfolio-amber.vercel.app) | `AWS Athena` `Python/Boto3` `MDM` `Golden Records` | Onboarding 4–8 weeks → 2–3 days (85% faster) · 90%+ duplicate resolution savings · $5M+ savings potential |
+|:--------|:------|:-----------|
+| [🌟 **Pipeline Pulse** — Live AI Governance App](https://pipeline-pulse-79.lovable.app/) | `Lovable.app` `Gemini 1.5 Flash` `Python` `ABAC` | **Vibe-coded live product** · Semantic PII detection · SHA-256/512 masking · Zero-trust ingestion · GDPR/HIPAA/SOX/SOC2/NIST |
+| [🤖 AI Data Governance & PII Masking](https://github.com/ramachandranbalasubrahmanian-svg/AI-DataGovernance-DataMasking) | `Gemini 1.5` `Python` `SHA-256/512` `Purview` | Privacy-by-design prototype · 95% incident reduction pattern · 232M+ record protection model |
+| [📋 Data Operations Playbook](https://github.com/ramachandranbalasubrahmanian-svg/data-operations-playbook) | `DAMA DMBOK` `ServiceNow` `DataOps` `RCA` | DMBOK-aligned reliability · Detect-Resolve-Prevent · Incident management · Ownership model |
+| [🔁 Data Pipelines](https://github.com/ramachandranbalasubrahmanian-svg/Data-Pipelines) | `Python` `AWS` `ETL/ELT` `Observability` | Pipeline patterns · Metering · Audit trails · Data movement · Platform observability |
+| [📐 Metadata-Driven DQ Framework](https://ram-portfolio-amber.vercel.app) | `AWS Athena` `Python/Boto3` `MDM` `Golden Records` | Onboarding **4–8 weeks → 2–3 days** · 90%+ duplicate reduction · $5M+ savings potential |
 
 </div>
 
 ---
 
+<!-- ═══════════════════ BEST-FIT ROLES ═══════════════════ -->
 ## 🎯 Best-Fit Roles
 
 <div align="center">
 
 | 🥇 Primary Fit | 🥈 Secondary Fit |
-|----------------|------------------|
+|:---------------|:-----------------|
 | Director / Head of Data Governance | Analytics Platform Leader |
 | Director / Head of DataOps | Data Engineering Manager |
 | Senior Manager / Director — Data Platform | CDO Office / Data Strategy Lead |
@@ -348,51 +434,43 @@ class RamachandranBalasubrahmanian:
 
 ---
 
-## 🏅 Achievements
+<!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
+## 🏅 Certifications & Achievements
 
 <div align="center">
 
 | 🎖️ | Achievement | Details |
-|-----|-------------|---------|
-| 🏆 | DAMA CDMP — Data Management Fundamentals | Score: **88%** |
-| 🏆 | DAMA CDMP — Data Governance | Score: **83%** |
-| 🏆 | DAMA CDMP — Data Quality | Score: **88%** · Master Level Approval In Progress |
-| 🤖 | Anthropic AI Certifications | Claude 101 · Claude Code 101 · Intro to Cowork · Intro to MCP |
-| 🎨 | Vibe Coder | Built live AI governance app on Lovable.app — pipeline-pulse-79.lovable.app |
-| 🎓 | Corporate Trainer | Data Integration · ETL/ELT · Metadata · DQ · DG — multiple enterprise clients |
-| 📜 | Scrum Master | Certified 2025 |
-| 📜 | SAFe Agile | Certified Practitioner |
-| 📜 | Guidewire Data Hub & InfoCenter | Certified |
-| 📜 | Data-Driven Decision Making | Certified 2025 |
-| 💰 | $2M+ Annual Savings | Automation of data controls at FICO |
-| 🔒 | 232M+ Records Protected | PII classification, masking, and access governance |
-| ⚡ | 95% Incident Reduction | Detect-Resolve-Prevent process in 3 months |
-| 🚀 | 85% Faster Client Onboarding | 4–8 weeks → 2–3 days via metadata-driven DQ |
-| 🌐 | 50+ Enterprise Clients | 150+ projects/platforms supported across regulated environments |
-| 💵 | $10M+ ARR Supported | Enterprise data platform and client delivery work |
+|:----|:------------|:--------|
+| 🏆 | **DAMA CDMP — Data Management Fundamentals** | Score: **88%** |
+| 🏆 | **DAMA CDMP — Data Governance** | Score: **83%** |
+| 🏆 | **DAMA CDMP — Data Quality** | Score: **88%** · Master Level Approval In Progress |
+| 🤖 | **Anthropic AI Suite** | Claude 101 · Claude Code 101 · Intro to Cowork · Intro to MCP |
+| 🎨 | **Vibe Coder** | Live AI governance app built on Lovable.app |
+| 🎓 | **Corporate Trainer** | Data Integration · ETL/ELT · Metadata · DQ · DG — multiple enterprise clients |
+| 📜 | **Scrum Master** | Certified 2025 |
+| 📜 | **SAFe Agile** | Certified Practitioner |
+| 📜 | **Guidewire Data Hub & InfoCenter** | Certified |
+| 📜 | **Data-Driven Decision Making** | Certified 2025 |
+| ⚡ | **95% Incident Reduction** | Detect-Resolve-Prevent DataOps model in 3 months |
+| 🔒 | **232M+ Records Protected** | PII classification, masking, and access governance |
+| 💰 | **$2M+ Annual Savings** | Data control automation and standardised ingestion |
+| 🚀 | **85% Faster Client Onboarding** | 4–8 weeks → 2–3 days via metadata-driven DQ |
+| 🌐 | **50+ Enterprise Clients** | 150+ projects/platforms across regulated BFSI environments |
+| 💵 | **$10M+ ARR Supported** | Enterprise data platform and client delivery work |
 
 </div>
 
 ---
 
-## 💡 Operating Belief
-
-> Governance should not be a static policy document. It should be **engineered into the platform**.
-
-```
-Metadata  →  Rules  →  Controls  →  Evidence  →  Metrics  →  Business Trust
-```
-
----
-
+<!-- ═══════════════════ EDUCATION ═══════════════════ -->
 ## 🎓 Education & Currently Learning
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| Master of Computer Application (MCA) | KGISL Institute of Information Management | 2005 – 2008 | — |
-| B.Sc. Mathematics & Statistics | University of Calicut | 2002 – 2005 | — |
+| Degree | Institution | Year |
+|:-------|:------------|:-----|
+| Master of Computer Application (MCA) | KGISL Institute of Information Management | 2005 – 2008 |
+| B.Sc. Mathematics & Statistics | University of Calicut | 2002 – 2005 |
 
 </div>
 
@@ -400,29 +478,33 @@ Metadata  →  Rules  →  Controls  →  Evidence  →  Metrics  →  Business 
 
 ```
 🧱 Currently Deepening →
-   ├── AI Governance         → NIST AI RMF, EU AI Act, RAG Pipelines, PII Safeguards
-   ├── Vibe Coding           → Lovable.app, Claude Artifacts, AI Prototype Design
-   ├── GenAI Tooling         → Anthropic Claude, MCP, Claude Code, Cowork
-   ├── Data Cataloguing      → Microsoft Purview Advanced, Collibra DQ, Apache Atlas
-   ├── Cloud Data Ops        → AWS Glue, Lake Formation, Snowflake, Data Mesh
-   └── Compliance Controls   → BCBS 239, CCPA, ISO 27001, EU AI Act Readiness
+   ├── AI Governance         → NIST AI RMF · EU AI Act · RAG Pipelines · PII Safeguards
+   ├── Vibe Coding           → Lovable.app · Claude Artifacts · AI Prototype Design
+   ├── GenAI Tooling         → Anthropic Claude · MCP · Claude Code · Cowork
+   ├── Data Architecture     → Data Mesh · Data Fabric · Data Lakehouse patterns
+   ├── Cloud Data Ops        → AWS Glue · Lake Formation · Snowflake · Databricks
+   └── Compliance Controls   → BCBS 239 · CCPA · ISO 27001 · EU AI Act Readiness
 ```
 
 ---
 
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
 <div align="center">
 
-📬 **Let's Connect**
+## 📬 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-ramachandran.balasubrahmanian@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramachandran.balasubrahmanian@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramachandran_B-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramachandran-balasubrahmanian/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ram--portfolio--amber.vercel.app-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://ram-portfolio-amber.vercel.app)
-[![Live App](https://img.shields.io/badge/🌟_Live_App-Pipeline_Pulse-FF6C2F?style=flat-square&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
-[![One-Pager](https://img.shields.io/badge/One--Pager-Download-38BDAE?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://ram-portfolio-amber.vercel.app/assets/one-pager.pdf)
-[![Resume](https://img.shields.io/badge/Resume-Download-BF91F3?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://ram-portfolio-amber.vercel.app/assets/resume.pdf)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_99726_57810-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919972657810)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramachandran_B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramachandran-balasubrahmanian/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramachandran.balasubrahmanian@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919972657810)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ramachandranbalasubrahmanian-svg&color=70a5fd&style=flat-square&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ram--portfolio--amber.vercel.app-70A5FD?style=for-the-badge&logo=vercel&logoColor=white)](https://ram-portfolio-amber.vercel.app)
+[![Live App](https://img.shields.io/badge/🌟_Live_App-Pipeline_Pulse_AI_Governance-FF6C2F?style=for-the-badge&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
+[![One-Pager](https://img.shields.io/badge/One--Pager-Download_PDF-38BDAE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://ram-portfolio-amber.vercel.app/assets/one-pager.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-BF91F3?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://ram-portfolio-amber.vercel.app/assets/resume.pdf)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ramachandranbalasubrahmanian-svg&color=70a5fd&style=for-the-badge&label=Profile+Views)
 
 </div>
 
