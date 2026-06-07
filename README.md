@@ -25,7 +25,7 @@
 ---
 
 <!-- ═══════════════════ CODE BLOCK ABOUT ME ═══════════════════ -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="200" style="border-radius:50%; margin-left:20px;" src="assets/ram-linkedin-AI.jpeg" alt="Ramachandran Balasubrahmanian"/>
 
 ```python
 class RamachandranBalasubrahmanian:
