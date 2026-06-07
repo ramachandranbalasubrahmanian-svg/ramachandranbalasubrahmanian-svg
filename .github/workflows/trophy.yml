@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   trophy:
     runs-on: ubuntu-latest
@@ -18,24 +21,31 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Install Deno
+        uses: denoland/setup-deno@v2
         with:
-          username: ramachandranbalasubrahmanian-svg
-          output_path: trophy/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          deno-version: v2.x
+
+      - name: Generate trophy SVG via Deno
         env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p trophy
+          deno run \
+            --allow-net \
+            --allow-env \
+            --allow-read \
+            --allow-write \
+            https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/render_svg.ts \
+            ramachandranbalasubrahmanian-svg \
+            trophy \
+            tokyonight
 
       - name: Commit and push trophy SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p trophy
-          cp trophy.svg trophy/trophy.svg 2>/dev/null || true
-          git add trophy/trophy.svg
+          git add trophy/
           git diff --cached --quiet || git commit -m "Generate GitHub trophy SVG"
           git push
