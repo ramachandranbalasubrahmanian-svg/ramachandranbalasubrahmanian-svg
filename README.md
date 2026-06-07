@@ -296,15 +296,22 @@ class RamachandranBalasubrahmanian:
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/ramachandranbalasubrahmanian-svg?label=Followers&style=flat-square&logo=github&color=70A5FD&labelColor=0d1117&logoColor=white)](https://github.com/ramachandranbalasubrahmanian-svg?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=ramachandranbalasubrahmanian-svg&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/ramachandranbalasubrahmanian-svg)
+[![GitHub followers](https://img.shields.io/github/followers/ramachandranbalasubrahmanian-svg?label=Followers&style=for-the-badge&logo=github&color=70A5FD&labelColor=0d1117&logoColor=white)](https://github.com/ramachandranbalasubrahmanian-svg?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/ramachandranbalasubrahmanian-svg?label=Total+Stars&style=for-the-badge&logo=github&color=BF91F3&labelColor=0d1117&logoColor=white)](https://github.com/ramachandranbalasubrahmanian-svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=ramachandranbalasubrahmanian-svg&color=70a5fd&style=for-the-badge&label=Profile+Views)](https://github.com/ramachandranbalasubrahmanian-svg)
 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramachandranbalasubrahmanian-svg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800&rank_icon=github&show=reviews,discussions_started,prs_merged" alt="Ram's GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramachandranbalasubrahmanian-svg&theme=tokyonight" width="100%" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramachandranbalasubrahmanian-svg&theme=tokyonight" height="180em" alt="Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramachandranbalasubrahmanian-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramachandranbalasubrahmanian-svg&theme=tokyonight&utcOffset=+5.5" height="180em" alt="Productive Time"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramachandranbalasubrahmanian-svg&theme=tokyonight" height="180em" alt="Top Languages"/>
 </div>
 
 ---
@@ -312,7 +319,7 @@ class RamachandranBalasubrahmanian:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramachandranbalasubrahmanian-svg&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&mode=weekly" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=ramachandranbalasubrahmanian-svg&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" width="70%"/>
 </div>
 
 ---
@@ -328,7 +335,7 @@ class RamachandranBalasubrahmanian:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramachandranbalasubrahmanian-svg&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ramachandranbalasubrahmanian-svg&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
