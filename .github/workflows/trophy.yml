@@ -28,8 +28,6 @@ jobs:
           deno-version: v2.x
 
       - name: Generate trophy SVG via Deno
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p trophy
           deno run \
@@ -41,6 +39,8 @@ jobs:
             ramachandranbalasubrahmanian-svg \
             trophy \
             tokyonight
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ← moved here, under run step directly
 
       - name: Commit and push trophy SVG
         run: |
