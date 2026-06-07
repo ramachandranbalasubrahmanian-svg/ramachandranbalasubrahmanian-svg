@@ -429,34 +429,16 @@ class RamachandranBalasubrahmanian:
 
 </div>
 
----
 
+---
 <!-- ═══════════════════ TESTIMONIALS ═══════════════════ -->
 ## 🗣️ What Colleagues & Clients Say
 
-> *LinkedIn recommendations are the strongest social proof for a senior data leader. The full set lives on my profile — a selection is shown below.*
-
 <div align="center">
 
-[![View All Recommendations](https://img.shields.io/badge/LinkedIn-View_All_Recommendations-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramachandran-balasubrahmanian/details/recommendations/)
+[![⭐ View All Recommendations on LinkedIn](https://img.shields.io/badge/⭐_Read_My_Recommendations-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramachandran-balasubrahmanian/details/recommendations/)
 
 </div>
-
-> ⭐ **[Recommendation 1 — paste name, title, company]**
-> *"[Paste the recommendation text here — copy from LinkedIn → Recommendations tab → Received]"*
-
-> ⭐ **[Recommendation 2 — paste name, title, company]**
-> *"[Paste the recommendation text here]"*
-
-> ⭐ **[Recommendation 3 — paste name, title, company]**
-> *"[Paste the recommendation text here]"*
-
-<!-- HOW TO FILL THIS IN:
-  1. Go to https://www.linkedin.com/in/ramachandran-balasubrahmanian/details/recommendations/
-  2. Pick your 3 strongest "Received" recommendations
-  3. Replace the placeholder lines above with the real name, title, and quote
-  4. Keep each quote to 2-3 sentences max for readability
--->
 
 ---
 
