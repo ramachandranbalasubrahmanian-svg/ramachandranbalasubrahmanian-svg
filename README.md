@@ -319,7 +319,7 @@ class RamachandranBalasubrahmanian:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ramachandranbalasubrahmanian-svg&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&cache_bust=20260610-test-repo1-november" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=ramachandranbalasubrahmanian-svg&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&cache_bust=20260610-streak-refresh-2" alt="GitHub Streak" width="70%"/>
 </div>
 
 ---
