@@ -1,0 +1,28 @@
+<svg width="860" height="220" viewBox="0 0 860 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Streak Stats</title>
+  <desc id="desc">1519 total contributions, 217 current streak, and 217 longest streak from November 6, 2025 to present.</desc>
+  <rect width="860" height="220" rx="10" fill="#0D1117"/>
+  <rect x="1" y="1" width="858" height="218" rx="9" stroke="#0D1117" stroke-width="2"/>
+  <line x1="286.5" y1="34" x2="286.5" y2="186" stroke="#0D1117" stroke-width="2"/>
+  <line x1="573.5" y1="34" x2="573.5" y2="186" stroke="#0D1117" stroke-width="2"/>
+
+  <g transform="translate(0 4)">
+    <text x="143" y="86" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#C9D1D9">1,519</text>
+    <text x="143" y="125" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#38BDAE">Total Contributions</text>
+    <text x="143" y="159" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" fill="#8B949E">Nov 6, 2025 - Present</text>
+  </g>
+
+  <g transform="translate(430 95)">
+    <circle cx="0" cy="0" r="70" fill="none" stroke="#70A5FD" stroke-width="10"/>
+    <path d="M0 -82 C15 -65 14 -49 2 -40 C11 -54 -8 -62 -2 -82 Z" fill="#BF91F3"/>
+    <text x="0" y="14" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#C9D1D9">217</text>
+    <text x="0" y="104" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#70A5FD">Current Streak</text>
+    <text x="0" y="138" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" fill="#8B949E">Nov 6, 2025 - Jun 10</text>
+  </g>
+
+  <g transform="translate(0 4)">
+    <text x="717" y="86" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#C9D1D9">217</text>
+    <text x="717" y="125" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#38BDAE">Longest Streak</text>
+    <text x="717" y="159" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="18" fill="#8B949E">Nov 6, 2025 - Jun 10, 2026</text>
+  </g>
+</svg>
