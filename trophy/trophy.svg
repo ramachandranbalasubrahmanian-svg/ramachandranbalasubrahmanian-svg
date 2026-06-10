@@ -28,13 +28,13 @@
       </g>
       <g transform="translate(240, 20)">
         <rect width="100" height="100" rx="8"
-          fill="#1a1b27" stroke="#BF91F3" stroke-width="1.5"/>
+          fill="#1a1b27" stroke="#F4D03F" stroke-width="1.5"/>
         <text x="50" y="28" text-anchor="middle"
-          font-size="18" fill="#BF91F3">💻</text>
+          font-size="18" fill="#F4D03F">💻</text>
         <text x="50" y="48" text-anchor="middle"
-          font-size="9" fill="#a0aec0" font-family="monospace">AA</text>
+          font-size="9" fill="#a0aec0" font-family="monospace">SSS</text>
         <text x="50" y="65" text-anchor="middle"
-          font-size="14" font-weight="bold" fill="#BF91F3">60</text>
+          font-size="14" font-weight="bold" fill="#F4D03F">1763</text>
         <text x="50" y="82" text-anchor="middle"
           font-size="8" fill="#718096" font-family="monospace">Commits</text>
       </g>
@@ -82,7 +82,7 @@
         <text x="50" y="48" text-anchor="middle"
           font-size="9" fill="#a0aec0" font-family="monospace">AA</text>
         <text x="50" y="65" text-anchor="middle"
-          font-size="14" font-weight="bold" fill="#BF91F3">12</text>
+          font-size="14" font-weight="bold" fill="#BF91F3">13</text>
         <text x="50" y="82" text-anchor="middle"
           font-size="8" fill="#718096" font-family="monospace">Repos</text>
       </g>
