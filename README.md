@@ -1,4 +1,4 @@
-–<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramachandran+Balasubrahmanian&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data+Management+Leader+%7C+DAMA+CDMP+%7C+DataOps+%7C+AI+Governance+%7C+Corporate+Trainer+%7C+AI-Assisted+Builder&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramachandran+Balasubrahmanian&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data+Management+Leader+%7C+DAMA+CDMP+%7C+DataOps+%7C+AI+Governance+%7C+Corporate+Trainer+%7C+AI-Assisted+Builder&descAlignY=62&descSize=15" width="100%"/>
 
 <!-- ═══════════════════ TYPING HEADER ═══════════════════ -->
 <div align="center">
@@ -347,7 +347,7 @@ class RamachandranBalasubrahmanian:
 ## 💼 Work Experience
 
 <details>
-<summary><strong>🏢 Fair Isaac Corporation (FICO)</strong> — Director / Senior Manager, AI Data Operations & Governance &nbsp;|&nbsp; Jun 2022 – Mar 2025 &nbsp;|&nbsp; Bengaluru, India</summary>
+<summary><strong>🏢 Fair Isaac Corporation (FICO)</strong> — Senior Manager, AI Data Operations & Governance &nbsp;|&nbsp; Jun 2022 – Mar 2025 &nbsp;|&nbsp; Bengaluru, India</summary>
 
 <br/>
 
@@ -421,11 +421,11 @@ class RamachandranBalasubrahmanian:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🌟 **Pipeline Pulse** — Live AI Governance App](https://pipeline-pulse-79.lovable.app/) | `Lovable.app` `Gemini 1.5 Flash` `Python` `ABAC` | **Vibe-coded live product** · Semantic PII detection · SHA-256/512 masking · Zero-trust ingestion · GDPR/HIPAA/SOX/SOC2/NIST |
-| [🤖 AI Data Governance & PII Masking](https://github.com/ramachandranbalasubrahmanian-svg/AI-DataGovernance-DataMasking) | `Gemini 1.5` `Python` `SHA-256/512` `Purview` | Privacy-by-design prototype · 95% incident reduction pattern · 232M+ record protection model |
+| [🌟 **Pipeline Pulse** — Live AI Governance App](https://pipeline-pulse-79.lovable.app/) | `Lovable.app` `Gemini 1.5 Flash` `Python` `ABAC` | **AI-assisted live product** · Semantic PII detection · SHA-256/512 masking · Zero-trust ingestion · GDPR/HIPAA/SOX/SOC2/NIST |
+| [🤖 AI Data Governance & PII Masking](https://github.com/ramachandranbalasubrahmanian-svg/AI-DataGovernance-DataMasking) | `Gemini 1.5` `Python` `SHA-256/512` `Purview` | Privacy-by-design prototype · implements the PII controls behind 232M+ records protected at FICO |
 | [📋 Data Operations Playbook](https://github.com/ramachandranbalasubrahmanian-svg/data-operations-playbook) | `DAMA DMBOK` `ServiceNow` `DataOps` `RCA` | DMBOK-aligned reliability · Detect-Resolve-Prevent · Incident management · Ownership model |
 | [🔁 Data Pipelines](https://github.com/ramachandranbalasubrahmanian-svg/Data-Pipelines) | `Python` `AWS` `ETL/ELT` `Observability` | Pipeline patterns · Metering · Audit trails · Data movement · Platform observability |
-| [📐 Metadata-Driven DQ Framework](https://ram-portfolio-amber.vercel.app) | `AWS Athena` `Python/Boto3` `MDM` `Golden Records` | Onboarding **4–8 weeks → 2–3 days** · 90%+ duplicate reduction · $5M+ savings potential |
+| [📐 Metadata-Driven DQ Framework](https://ram-portfolio-amber.vercel.app) | `AWS Athena` `Python/Boto3` `MDM` `Golden Records` | Onboarding **3–4 weeks → 1–2 days** · 90%+ duplicate reduction · $5M+ savings potential |
 
 </div>
 
@@ -479,7 +479,7 @@ class RamachandranBalasubrahmanian:
 | ⚡ | **95% Incident Reduction** | Detect-Resolve-Prevent DataOps model in 3 months |
 | 🔒 | **232M+ Records Protected** | PII classification, masking, and access governance |
 | 💰 | **$2M+ Annual Savings** | Data control automation and standardised ingestion |
-| 🚀 | **85% Faster Client Onboarding** | 4–8 weeks → 2–3 days via metadata-driven DQ |
+| 🚀 | **70% Faster Client Onboarding** | 3–4 weeks → 1–2 days via metadata-driven DQ |
 | 🌐 | **50+ Enterprise Clients** | 150+ projects/platforms across regulated BFSI environments |
 | 💵 | **$10M+ ARR Supported** | Enterprise data platform and client delivery work |
 
