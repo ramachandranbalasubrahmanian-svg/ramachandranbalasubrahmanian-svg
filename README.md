@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramachandran+Balasubrahmanian&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data+Management+Leader+%7C+DAMA+CDMP+%7C+DataOps+%7C+AI+Governance+%7C+Corporate+Trainer+%7C+AI-Assisted+Builder&descAlignY=62&descSize=15" width="100%"/>
+–<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramachandran+Balasubrahmanian&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data+Management+Leader+%7C+DAMA+CDMP+%7C+DataOps+%7C+AI+Governance+%7C+Corporate+Trainer+%7C+AI-Assisted+Builder&descAlignY=62&descSize=15" width="100%"/>
 
 <!-- ═══════════════════ TYPING HEADER ═══════════════════ -->
 <div align="center">
