@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramachandran+Balasubrahmanian&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data+Management+Leader+%7C+DAMA+CDMP+%7C+DataOps+%7C+AI+Governance+%7C+Corporate+Trainer+%7C+Vibe+Coder&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ramachandran+Balasubrahmanian&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data+Management+Leader+%7C+DAMA+CDMP+%7C+DataOps+%7C+AI+Governance+%7C+Corporate+Trainer+%7C+AI-Assisted+Builder&descAlignY=62&descSize=15" width="100%"/>
 
 <!-- ═══════════════════ TYPING HEADER ═══════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=900&height=45&lines=15%2B+Years+in+Data+Management+%7C+ex-FICO+%7C+Bengaluru%2C+India;DAMA+CDMP+Certified+%E2%80%94+Fundamentals+88%25+%7C+DQ+88%25+%7C+DG+83%25;95%25+Incident+Reduction+in+3+Months+%E2%80%94+Detect+Resolve+Prevent;Protected+232M%2B+Records+%7C+50%2B+Clients+%7C+%2410M%2B+ARR+Supported;%242M%2B+Annual+Savings+%7C+70%25+Faster+Onboarding;Corporate+Trainer+%E2%80%94+ETL+%7C+ELT+%7C+Metadata+%7C+DQ+%7C+Data+Governance;Vibe+Coder+%E2%80%94+AI+Governance+Apps+with+Lovable+%26+Claude" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=900&height=45&lines=15%2B+Years+in+Data+Management+%7C+ex-FICO+%7C+Bengaluru%2C+India;DAMA+CDMP+Certified+%E2%80%94+Fundamentals+88%25+%7C+DQ+88%25+%7C+DG+83%25;95%25+Incident+Reduction+in+3+Months+%E2%80%94+Detect+Resolve+Prevent;Protected+232M%2B+Records+%7C+50%2B+Clients+%7C+%2410M%2B+ARR+Supported;%242M%2B+Annual+Savings+%7C+70%25+Faster+Onboarding;Corporate+Trainer+%E2%80%94+ETL+%7C+ELT+%7C+Metadata+%7C+DQ+%7C+Data+Governance;AI-Assisted+Builder+%E2%80%94+AI+Governance+Apps+with+Lovable+%26+Claude" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Annual_Savings-%242M%2B-F5A623?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/ARR_Supported-%2410M%2B-70A5FD?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Enterprise_Clients-50%2B-BF91F3?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Onboarding_Speed-85%25_Faster-38BDAE?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Onboarding_Speed-70%25_Faster-38BDAE?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -31,7 +31,7 @@
 class RamachandranBalasubrahmanian:
     """
     Data Management Leader · DAMA CDMP Practitioner
-    Corporate Trainer · Vibe Coder · ex-FICO · Bengaluru 🇮🇳
+    Corporate Trainer · AI-Assisted Builder · ex-FICO · Bengaluru 🇮🇳
     """
 
     name     = "Ramachandran Balasubrahmanian"
@@ -63,7 +63,7 @@ class RamachandranBalasubrahmanian:
         "AI Governance & Privacy Controls",
     ]
 
-    vibe_code = ["Lovable.app", "Claude", "Gemini 1.5 Flash", "RAG Pipelines"]
+    ai_toolkit = ["Lovable.app", "Claude", "Gemini 1.5 Flash", "RAG Pipelines"]
 
     def motto(self):
         return (
@@ -112,8 +112,8 @@ class RamachandranBalasubrahmanian:
 
 ---
 
-<!-- ═══════════════════ VIBE CODING ═══════════════════ -->
-## ⚡ Vibe Coding — AI Governance Prototypes Built Live
+<!-- ═══════════════════ AI-Assisted Engineering ═══════════════════ -->
+## ⚡ AI-Assisted Engineering — AI Governance Prototypes Built Live
 
 > I build **working, production-grade AI governance tools** using Lovable.app, Claude, and Gemini — translating data management frameworks into live, clickable products without traditional dev overhead.
 
@@ -124,7 +124,7 @@ class RamachandranBalasubrahmanian:
 [![Live App](https://img.shields.io/badge/🚀_LIVE_APP-pipeline--pulse--79.lovable.app-FF6C2F?style=for-the-badge&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
 [![Built With](https://img.shields.io/badge/Built_With-Lovable.app-7C3AED?style=for-the-badge&logoColor=white)](https://lovable.app)
 [![AI Engine](https://img.shields.io/badge/AI_Engine-Gemini_1.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
-[![Compliance](https://img.shields.io/badge/Compliant-GDPR_%7C_HIPAA_%7C_SOX_%7C_SOC2-38BDAE?style=for-the-badge&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
+[![Compliance](https://img.shields.io/badge/Aligned_to-GDPR_%7C_HIPAA_%7C_SOX_%7C_SOC2-38BDAE?style=for-the-badge&logoColor=white)](https://pipeline-pulse-79.lovable.app/)
 
 </div>
 
@@ -137,7 +137,7 @@ class RamachandranBalasubrahmanian:
 | 🛡️ **ABAC Access Governance** | Attribute-based access control with immutable, audit-ready evidence trails |
 | 📊 **Governance Dashboard** | Real-time incident tracking, lineage views, RCA panels, and quality metrics |
 | 📋 **Multi-Compliance** | GDPR · HIPAA · SOX · SOC 2 · ISO 27001 · NIST · CCPA aligned |
-| ⚡ **Impact** | 95% incident reduction pattern · 232M+ record protection model · $2M+ savings design |
+| ⚡ **Impact** | Implements the controls behind my FICO outcomes — 95% incident reduction, 232M+ records protected, $2M+ savings |
 
 </div>
 
@@ -247,7 +247,7 @@ class RamachandranBalasubrahmanian:
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**🤖 AI, GenAI & Vibe Coding**
+**🤖 AI, GenAI & AI-Assisted Engineering**
 
 ![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logoColor=white)
@@ -470,7 +470,7 @@ class RamachandranBalasubrahmanian:
 | 🏆 | **DAMA CDMP — Data Governance** | Score: **83%** |
 | 🏆 | **DAMA CDMP — Data Quality** | Score: **88%** · Master Level Approval In Progress |
 | 🤖 | **Anthropic AI Suite** | Claude 101 · Claude Code 101 · Intro to Cowork · Intro to MCP |
-| 🎨 | **Vibe Coder** | Live AI governance app built on Lovable.app |
+| 🎨 | **AI-Assisted Builder** | Live AI governance app built on Lovable.app |
 | 🎓 | **Corporate Trainer** | Data Integration · ETL/ELT · Metadata · DQ · DG — multiple enterprise clients |
 | 📜 | **Scrum Master** | Certified 2025 |
 | 📜 | **SAFe Agile** | Certified Practitioner |
@@ -504,7 +504,7 @@ class RamachandranBalasubrahmanian:
 ```
 🧱 Currently Deepening →
    ├── AI Governance         → NIST AI RMF · EU AI Act · RAG Pipelines · PII Safeguards
-   ├── Vibe Coding           → Lovable.app · Claude Artifacts · AI Prototype Design
+   ├── AI-Assisted Engineering           → Lovable.app · Claude Artifacts · AI Prototype Design
    ├── GenAI Tooling         → Anthropic Claude · MCP · Claude Code · Cowork
    ├── Data Architecture     → Data Mesh · Data Fabric · Data Lakehouse patterns
    ├── Cloud Data Ops        → AWS Glue · Lake Formation · Snowflake · Databricks
