@@ -10,7 +10,7 @@
         <text x="50" y="48" text-anchor="middle"
           font-size="9" fill="#a0aec0" font-family="monospace">B</text>
         <text x="50" y="65" text-anchor="middle"
-          font-size="14" font-weight="bold" fill="#38BDAE">7</text>
+          font-size="14" font-weight="bold" fill="#38BDAE">8</text>
         <text x="50" y="82" text-anchor="middle"
           font-size="8" fill="#718096" font-family="monospace">Stars</text>
       </g>
@@ -32,9 +32,9 @@
         <text x="50" y="28" text-anchor="middle"
           font-size="18" fill="#BF91F3">💻</text>
         <text x="50" y="48" text-anchor="middle"
-          font-size="9" fill="#a0aec0" font-family="monospace">AA</text>
+          font-size="9" fill="#a0aec0" font-family="monospace">AAA</text>
         <text x="50" y="65" text-anchor="middle"
-          font-size="14" font-weight="bold" fill="#BF91F3">67</text>
+          font-size="14" font-weight="bold" fill="#BF91F3">199</text>
         <text x="50" y="82" text-anchor="middle"
           font-size="8" fill="#718096" font-family="monospace">Commits</text>
       </g>
@@ -82,7 +82,7 @@
         <text x="50" y="48" text-anchor="middle"
           font-size="9" fill="#a0aec0" font-family="monospace">AA</text>
         <text x="50" y="65" text-anchor="middle"
-          font-size="14" font-weight="bold" fill="#BF91F3">10</text>
+          font-size="14" font-weight="bold" fill="#BF91F3">11</text>
         <text x="50" y="82" text-anchor="middle"
           font-size="8" fill="#718096" font-family="monospace">Repos</text>
       </g>
