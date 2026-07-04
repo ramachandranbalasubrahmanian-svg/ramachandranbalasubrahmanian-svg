@@ -82,7 +82,7 @@
         <text x="50" y="48" text-anchor="middle"
           font-size="9" fill="#a0aec0" font-family="monospace">AA</text>
         <text x="50" y="65" text-anchor="middle"
-          font-size="14" font-weight="bold" fill="#BF91F3">14</text>
+          font-size="14" font-weight="bold" fill="#BF91F3">15</text>
         <text x="50" y="82" text-anchor="middle"
           font-size="8" fill="#718096" font-family="monospace">Repos</text>
       </g>
