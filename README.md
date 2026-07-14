@@ -31,7 +31,7 @@
 class RamachandranBalasubrahmanian:
     """
     Data Management Leader · DAMA CDMP Practitioner
-    Corporate Trainer · AI-Assisted Builder · ex-FICO · Bengaluru 🇮🇳
+    · AI-Assisted Builder · ex-FICO · Bengaluru 🇮🇳
     """
 
     name     = "Ramachandran Balasubrahmanian"
@@ -140,13 +140,6 @@ class RamachandranBalasubrahmanian:
 | ⚡ **Impact** | Implements the controls behind my FICO outcomes — 95% incident reduction, 232M+ records protected, $2M+ savings |
 
 </div>
-
----
-
-<!-- ═══════════════════ CORPORATE TRAINER ═══════════════════ -->
-## 🎓 Corporate Trainer — Data Management & Integration
-
-> Delivered structured training programmes for **multiple corporate clients across India** — helping data teams build practical skills in governance, integration, quality, and AI-ready data operations.
 
 <div align="center">
 
@@ -452,7 +445,7 @@ class RamachandranBalasubrahmanian:
 | Director / Head of Data Governance | Analytics Platform Leader |
 | Director / Head of DataOps | Data Engineering Manager |
 | Senior Manager / Director — Data Platform | CDO Office / Data Strategy Lead |
-| Data Reliability Engineering Leader | Corporate Trainer — Data Management |
+| Data Reliability Engineering Leader | Data Management |
 | AI Governance & Controls Leader | Data Integration & ETL/ELT Lead |
 
 </div>
@@ -471,7 +464,7 @@ class RamachandranBalasubrahmanian:
 | 🏆 | **DAMA CDMP — Data Quality** | Score: **88%** · Master Level Approval In Progress |
 | 🤖 | **Anthropic AI Suite** | Claude 101 · Claude Code 101 · Intro to Cowork · Intro to MCP |
 | 🎨 | **AI-Assisted Builder** | Live AI governance app built on Lovable.app |
-| 🎓 | **Corporate Trainer** | Data Integration · ETL/ELT · Metadata · DQ · DG — multiple enterprise clients |
+| 🎓 | Data Integration · ETL/ELT · Metadata · DQ · DG — multiple enterprise clients |
 | 📜 | **Scrum Master** | Certified 2025 |
 | 📜 | **SAFe Agile** | Certified Practitioner |
 | 📜 | **Guidewire Data Hub & InfoCenter** | Certified |
