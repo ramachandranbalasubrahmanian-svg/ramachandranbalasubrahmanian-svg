@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════ TYPING HEADER ═══════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=900&height=45&lines=15%2B+Years+in+Data+Management+%7C+ex-FICO+%7C+Bengaluru%2C+India;DAMA+CDMP+Certified+%E2%80%94+Fundamentals+88%25+%7C+DQ+88%25+%7C+DG+83%25;95%25+Incident+Reduction+in+3+Months+%E2%80%94+Detect+Resolve+Prevent;Protected+232M%2B+Records+%7C+50%2B+Clients+%7C+%2410M%2B+ARR+Supported;%242M%2B+Annual+Savings+%7C+70%25+Faster+Onboarding;Corporate+Trainer+%E2%80%94+ETL+%7C+ELT+%7C+Metadata+%7C+DQ+%7C+Data+Governance;AI-Assisted+Builder+%E2%80%94+AI+Governance+Apps+with+Lovable+%26+Claude" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=900&height=45&lines=15%2B+Years+in+Data+Management+%7C+ex-FICO+%7C+Bengaluru%2C+India;DAMA+CDMP+Certified+%E2%80%94+Fundamentals+88%25+%7C+DQ+88%25+%7C+DG+83%25;95%25+Incident+Reduction+in+3+Months+%E2%80%94+Detect+Resolve+Prevent;Protected+232M%2B+Records+%7C+50%2B+Clients+%7C+%2410M%2B+ARR+Supported;%242M%2B+Annual+Savings+%7C+70%25+Faster+Onboarding;ETL+%7C+ELT+%7C+Metadata+%7C+DQ+%7C+Data+Governance;AI-Assisted+Builder+%E2%80%94+AI+Governance+Apps+with+Lovable+%26+Claude" alt="Typing SVG" />
 </div>
 
 <br/>
